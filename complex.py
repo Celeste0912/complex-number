@@ -15,7 +15,7 @@ class Complex:
     
 A = Complex(1, 2)
 B = Complex(3, 4)
-
+print(567)
 print(A + B)
 print(A - B)
 print(A * B)
